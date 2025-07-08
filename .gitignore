@@ -5,3 +5,6 @@ __pycache__/
 /staticfiles/
 .env
 venv/
+*.log
+node_modules/
+.vscode/
